@@ -24,14 +24,14 @@ img{
     height: 200px;
 }
 
-/* audio {
-  transition: all 20s ease-in-out;
+audio {
+  transition: all 5s ease-in-out;
   opacity: 0;
-} */
+} 
 
-/* .show {
+audio.show {
   opacity: 1;
-} */
+}
 
 
 /******************************************
